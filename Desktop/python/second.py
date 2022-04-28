@@ -1,4 +1,6 @@
-
+D = {1:{"rollno":12,"class":"b.com","percentage":78.50},
+ 2:{"rollno":14,"class":"b.com","percentage":78.90},
+ 3:{"rollno":15,"class":"b.com","percentage":39.50}}
 
  
 rollnum = int(input('enter rollNumber @'))
@@ -25,4 +27,25 @@ elif (rollnum == D[3]["rollno"]):
         print('failed beta')
 else :    
     print("not have rollnumber") 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
